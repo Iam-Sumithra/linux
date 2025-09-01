@@ -18,7 +18,7 @@ In this section, we will take a look at linux shell in detail.
 
   #### What is a shell?
 
-  - Linux shell is a program that allows text based interaction between the user and the operating system, this interaction is carried out by typing commands into the interface and receving the response in the same way.
+  - <mark>Linux shell is a program that allows text based interaction between the user and the operating system, </mark> this interaction is carried out by typing commands into the interface and receving the response in the same way.
   - The Linux shell is a powerful tool with which you can navigate between different locations within the system, however when you login to the shell the very first directory you were take into is your home directory.
 
 #### The Home Directory
@@ -30,10 +30,10 @@ In this section, we will take a look at linux shell in detail.
 - Remember the home directory is unique for each user. Another user called **`allen`** will have a different home directory which by default created under **`/home/allen`**.
 
   ##### Why do we need a home directoy?
-  - The home directory allows users to store their personal data in the form of files and directories
+  - <mark>The home directory allows users to store their personal data in the form of files and directories</mark>
   - Each user in the system gets their own unique home directory with complete access to it (to be able to save, retreive , delete data).
   - Think of it as a dedicated locker assign to you in which you can store or retreive items.
-  - Other users can't access your files and folders with in your home directory (only you can).
+  - <mark> Other users can't access your files and folders with in your home directory (only you can).</mark>
 
 **Note** : The representation of the home directory is represented as by the `~ (tilde symbol).`
 
